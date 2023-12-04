@@ -1,0 +1,10 @@
+Flask
+python-decouple
+flask_sqlalchemy
+python-dotenv
+flask_marshmallow
+marshmallow-sqlalchemy
+flask_bcrypt
+flask_jwt_extended
+requests
+flask_cors
